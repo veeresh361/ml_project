@@ -1,0 +1,12 @@
+# Ignore data files
+data/
+
+# Ignore model files
+models/
+
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment
+venv/
